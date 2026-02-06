@@ -11,11 +11,11 @@
 
 ### 🧩 Langages <br>
   ![Kotlin](https://img.shields.io/badge/Kotlin-5e38f4?style=for-the-badge&logo=kotlin&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-3e3e3e?style=for-the-badge&logo=solidity)
-![Golang](https://img.shields.io/badge/Go-09aed9?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-09aed9?style=for-the-badge&logo=go&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-f8e026?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ec3a3a?style=for-the-badge&logo=openjdk&logoColor=white) <br>
 
 ### 📚 Frameworks & librairies<br>
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285f4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-0095d5?style=for-the-badge&logo=kotlin&logoColor=white)
