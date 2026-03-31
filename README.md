@@ -22,7 +22,7 @@
 
 ### 🧰 Outils <br>
  ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntellijIdea](https://img.shields.io/badge/Intellij%20Studio-000000?style=for-the-badge&logo=tizen&logoColor=white) 
+![IntellijIdea](https://img.shields.io/badge/Intellij%20Idea-000000?style=for-the-badge&logo=tizen&logoColor=white) 
 <!--
 **Shibler0/Shibler0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
