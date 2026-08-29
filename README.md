@@ -1,7 +1,5 @@
 ## 👋 Salut moi c'est Martin
 
-> Developpeur curieux, amateur de web3 et de flocons d'avoine
-
 🚀 À propos de moi<br>
   💻 Développeur full stack <br>
   🧠 J'aime apprendre de nouvelles technos <br>
