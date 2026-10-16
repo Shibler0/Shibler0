@@ -3,7 +3,7 @@
 🚀 À propos de moi<br>
   💻 Développeur full stack <br>
   🧠 J'aime apprendre de nouvelles technos <br>
-  🎯 Actuellement focus sur Mandua mon application mobile utilisant CMP<br>
+  🎯 Actuellement focus sur Croquo mon application mobile utilisant CMP<br>
 
 ## 🛠️ Stack & outils<br>
 
